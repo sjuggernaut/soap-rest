@@ -1,0 +1,17 @@
+{
+  "name": "soap-rest",
+  "version": "1.0.0",
+  "description": "SOAP REQUEST AND REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Chitta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "soap": "^0.26.0"
+  }
+}
