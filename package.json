@@ -9,9 +9,11 @@
   "author": "Sai Chitta",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^11.13.4",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "soap": "^0.26.0"
+    "soap": "^0.26.0",
+    "ts-node": "^8.0.3"
   }
 }
